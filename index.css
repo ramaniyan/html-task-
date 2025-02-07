@@ -1,12 +1,18 @@
-h5{
-    color: blue;
-}
-h3{
-    color: red;
+h1{
+    color: green;
 }
 h2{
-    color: aqua;
+    color: antiquewhite;
 }
-h1{
+h3{
+    color: blue;
+}
+h4{
     color: brown;
+}
+h5{
+    color: blueviolet;
+}
+h6{
+    color: azure;
 }
